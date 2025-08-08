@@ -2,7 +2,7 @@
 This project is a visually appealing React-based travel listing interface that displays popular destinations using responsive and interactive cards. It simulates a basic travel planner interface that could be used in travel agency websites or personal travel blogs.
 
 📸 UI Preview
-[BMI Calculator UI](./path-to-your-image.png)
+[Travelling-Plans UI](https://github.com/005kaushikmishra/Travelling-Plans/blob/caff0bd04162085ef4d07b6089da2511d181df90/Jeera2.JPG)
 
 Sample layout showcasing Taj Mahal, Andaman Islands, and Gulmarg destinations.
 
